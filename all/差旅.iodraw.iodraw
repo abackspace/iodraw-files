@@ -11,7 +11,7 @@
           <mxGeometry x="-250" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-3" value="国内差旅报账单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="-240" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-5" value="统结结算单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="480" width="120" height="60" as="geometry" />
