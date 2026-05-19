@@ -25,11 +25,8 @@
         <mxCell id="KSTZkFl4fUT4GTie3_pH-7" value="挂账付款单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KSTZkFl4fUT4GTie3_pH-8" value="统结结算单，由差旅平台推送" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="420" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="KSTZkFl4fUT4GTie3_pH-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="KSTZkFl4fUT4GTie3_pH-9" value="统结结算单，由差旅平台推送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
