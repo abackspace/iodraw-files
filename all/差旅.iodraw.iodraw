@@ -58,9 +58,9 @@
             <mxPoint x="380" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KSTZkFl4fUT4GTie3_pH-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="KSTZkFl4fUT4GTie3_pH-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="420" as="sourcePoint" />
+            <mxPoint x="-200" y="590" as="sourcePoint" />
             <mxPoint x="380" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
