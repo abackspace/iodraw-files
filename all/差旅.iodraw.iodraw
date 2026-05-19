@@ -8,7 +8,7 @@
           <mxGeometry x="-230" y="50" width="890" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-2" value="出差申请单&lt;div&gt;&lt;b&gt;立项、审批、占预算&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-120" y="160" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-3" value="国内差旅报账单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-130" y="270" width="130" height="60" as="geometry" />
