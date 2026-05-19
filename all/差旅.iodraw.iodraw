@@ -11,10 +11,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-2" value="出差申请单&lt;div&gt;&lt;b&gt;占预算&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="190" width="130" height="60" as="geometry" />
+          <mxGeometry x="-130" y="240" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-3" value="国内差旅报账单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="-130" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-5" value="统结结算单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="470" width="120" height="60" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="-120" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-10" value="行程信息，关联出差申请 → 员工个人垫付费用报销给个人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="300" width="140" height="60" as="geometry" />
+          <mxGeometry x="70" y="350" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-11" value="由统结结算单生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="595" width="120" height="60" as="geometry" />
@@ -48,8 +48,8 @@
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-16" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KSTZkFl4fUT4GTie3_pH-3" target="KSTZkFl4fUT4GTie3_pH-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="520" as="sourcePoint" />
-            <mxPoint x="380" y="470" as="targetPoint" />
+            <mxPoint x="320" y="570" as="sourcePoint" />
+            <mxPoint x="370" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KSTZkFl4fUT4GTie3_pH-6" target="KSTZkFl4fUT4GTie3_pH-7">
@@ -65,27 +65,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-21" value="差旅平台推送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="190" width="140" height="60" as="geometry" />
+          <mxGeometry x="-360" y="240" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-210" y="220" as="sourcePoint" />
-            <mxPoint x="-120" y="220" as="targetPoint" />
+            <mxPoint x="-220" y="270" as="sourcePoint" />
+            <mxPoint x="-130" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KSTZkFl4fUT4GTie3_pH-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="220" as="sourcePoint" />
-            <mxPoint x="170" y="170" as="targetPoint" />
+            <mxPoint x="10" y="270" as="sourcePoint" />
+            <mxPoint x="160" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-26" value="差旅订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KSTZkFl4fUT4GTie3_pH-2" target="KSTZkFl4fUT4GTie3_pH-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="450" as="sourcePoint" />
-            <mxPoint x="380" y="400" as="targetPoint" />
+            <mxPoint x="320" y="500" as="sourcePoint" />
+            <mxPoint x="370" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-28" value="差旅平台推送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-31" value="出差申请单，网科公司不占预算，是否占预算根据配置来的；&lt;br&gt;领导也不用出差申请单，领导不用申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-115" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="100" width="205" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
