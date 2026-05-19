@@ -8,7 +8,7 @@
           <mxGeometry x="-230" y="50" width="890" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-2" value="出差申请单&lt;div&gt;&lt;b&gt;立项、审批、占预算&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="-120" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-3" value="国内差旅报账单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="360" width="120" height="60" as="geometry" />
@@ -84,12 +84,6 @@
             <mxPoint x="330" y="420" as="sourcePoint" />
             <mxPoint x="380" y="370" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="KSTZkFl4fUT4GTie3_pH-24" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="20" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="KSTZkFl4fUT4GTie3_pH-25" value="员工费用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="220" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-26" value="差旅订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="170" width="120" height="60" as="geometry" />
