@@ -88,6 +88,9 @@
         <mxCell id="KSTZkFl4fUT4GTie3_pH-24" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="20" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="KSTZkFl4fUT4GTie3_pH-25" value="员工费用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
