@@ -10,7 +10,7 @@
         <mxCell id="KSTZkFl4fUT4GTie3_pH-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KSTZkFl4fUT4GTie3_pH-2" target="KSTZkFl4fUT4GTie3_pH-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KSTZkFl4fUT4GTie3_pH-2" value="出差申请单&lt;div&gt;&lt;b&gt;占预算&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KSTZkFl4fUT4GTie3_pH-2" value="出差申请单&lt;div&gt;&lt;b&gt;不一定占预算&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-130" y="240" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-3" value="国内差旅报账单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
