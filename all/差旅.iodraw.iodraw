@@ -115,8 +115,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KSTZkFl4fUT4GTie3_pH-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="388" width="50" height="30" as="geometry" />
+        <mxCell id="KSTZkFl4fUT4GTie3_pH-34" value="合并生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="420" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
