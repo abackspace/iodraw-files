@@ -25,7 +25,7 @@
         <mxCell id="KSTZkFl4fUT4GTie3_pH-9" value="统结结算单，由差旅平台推送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KSTZkFl4fUT4GTie3_pH-10" value="关联出差申请 → 员工个人垫付费用（餐费、小额交通、杂费）报销给个人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KSTZkFl4fUT4GTie3_pH-10" value="可关联出差申请 → 员工个人垫付费用（餐费、小额交通、杂费）报销给个人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-55" y="270" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-11" value="由统结结算单生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
