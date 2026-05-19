@@ -26,7 +26,7 @@
           <mxGeometry x="-50" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-10" value="关联出差申请 → 员工个人垫付费用（餐费、小额交通、杂费）报销给个人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="270" width="130" height="60" as="geometry" />
+          <mxGeometry x="-55" y="270" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-11" value="由统结结算单生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="525" width="120" height="60" as="geometry" />
@@ -69,6 +69,9 @@
             <mxPoint x="330" y="420" as="sourcePoint" />
             <mxPoint x="380" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KSTZkFl4fUT4GTie3_pH-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
