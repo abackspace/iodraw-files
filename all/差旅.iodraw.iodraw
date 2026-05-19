@@ -31,8 +31,8 @@
         <mxCell id="KSTZkFl4fUT4GTie3_pH-11" value="由统结结算单生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KSTZkFl4fUT4GTie3_pH-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="KSTZkFl4fUT4GTie3_pH-12" value="由统结报账单，定时任务生成，月结处理（月付）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
