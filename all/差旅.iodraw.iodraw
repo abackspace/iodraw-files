@@ -22,9 +22,6 @@
         <mxCell id="KSTZkFl4fUT4GTie3_pH-7" value="挂账付款单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KSTZkFl4fUT4GTie3_pH-9" value="统结结算单，由差旅平台推送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-10" value="行程信息，关联出差申请 → 员工个人垫付费用（餐费、小额交通、杂费）报销给个人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="270" width="140" height="60" as="geometry" />
         </mxCell>
@@ -41,12 +38,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KSTZkFl4fUT4GTie3_pH-6" target="KSTZkFl4fUT4GTie3_pH-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="440" as="sourcePoint" />
-            <mxPoint x="510" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KSTZkFl4fUT4GTie3_pH-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KSTZkFl4fUT4GTie3_pH-5" target="KSTZkFl4fUT4GTie3_pH-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="440" as="sourcePoint" />
             <mxPoint x="510" y="390" as="targetPoint" />
