@@ -20,7 +20,10 @@
           <mxGeometry x="-250" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-6" value="统结报账单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-250" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KSTZkFl4fUT4GTie3_pH-7" value="挂账付款单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
