@@ -13,8 +13,8 @@
         <mxCell id="KSTZkFl4fUT4GTie3_pH-3" value="国内差旅报账单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KSTZkFl4fUT4GTie3_pH-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="360" width="120" height="80" as="geometry" />
+        <mxCell id="KSTZkFl4fUT4GTie3_pH-4" value="关联出差申请 → 员工个人垫付费用（餐费、小额交通、杂费）报销给个人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="290" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
