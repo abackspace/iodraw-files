@@ -70,7 +70,7 @@
             <mxPoint x="380" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KSTZkFl4fUT4GTie3_pH-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KSTZkFl4fUT4GTie3_pH-21" value="差旅平台推送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
