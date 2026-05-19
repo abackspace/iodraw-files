@@ -7,8 +7,8 @@
         <mxCell id="KSTZkFl4fUT4GTie3_pH-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;先申请出差 → 员工个人垫付走差旅报账单报销；&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;同时机票酒店对公挂账 → 供应商对账生成统结结算单 → 财务审核生成统结报账单入账 → 统一生成挂账付款单给供应商打款、冲销往来挂账&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-230" y="50" width="890" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KSTZkFl4fUT4GTie3_pH-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="KSTZkFl4fUT4GTie3_pH-2" value="出差申请单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
