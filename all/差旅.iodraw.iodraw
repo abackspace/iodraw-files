@@ -131,13 +131,13 @@
         <mxCell id="KSTZkFl4fUT4GTie3_pH-39" value="定时任务：em_travelAutomationTask" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="255" y="718" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KSTZkFl4fUT4GTie3_pH-40" value="有转换规则过滤条件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="KSTZkFl4fUT4GTie3_pH-40" value="有转换规则过滤条件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="260" y="758" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KSTZkFl4fUT4GTie3_pH-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.977;exitY=0.533;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KSTZkFl4fUT4GTie3_pH-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="520" as="sourcePoint" />
-            <mxPoint x="570" y="510" as="targetPoint" />
+            <mxPoint x="550" y="510" as="targetPoint" />
             <Array as="points">
               <mxPoint x="550" y="774" />
             </Array>
